@@ -1,1 +1,1 @@
-# SpringMVCBareBones
+# WebServletBareBones
